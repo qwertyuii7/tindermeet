@@ -1,0 +1,6 @@
+{
+  "name": "MeetMe - Kinetic Arc Networking Deck",
+  "description": "Electric conference matchmaking and attendee collector deck with live venue radar, tactile swipe cards, and real-time spark icebreakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
